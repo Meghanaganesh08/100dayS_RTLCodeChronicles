@@ -1,4 +1,4 @@
-\     
+
 "Welcome to My RTL Journey: 100 Days of Coding!"
 
 Introducing My 100 Days of RTL Coding!
